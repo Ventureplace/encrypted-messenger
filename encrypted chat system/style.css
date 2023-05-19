@@ -1,0 +1,23 @@
+#chat {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #f5f5f5;
+}
+
+#messages {
+  list-style-type: none;
+  padding: 0;
+}
+
+#messages li {
+  margin-bottom: 10px;
+}
+
+#message-form input {
+  width: 80%;
+}
+
+#message-form button {
+  width: 20%;
+}
